@@ -1,11 +1,12 @@
 # 👋🏻👀
+Hi, 
 
-<div class="bitmojiAni"><img svg-inline="" src="https://d33wubrfki0l68.cloudfront.net/3ea6eb76f06258da302d0e6688da27208299515e/3c16e/_nuxt/img/52c585f.svg" alt="hansel wei's bitmoji" class="icon" height="210px" width="210px" border="7px solid #24292e" border-radius="350px"></div> 
+<div class="bitmojiAni"><img svg-inline="" src="https://d33wubrfki0l68.cloudfront.net/3ea6eb76f06258da302d0e6688da27208299515e/3c16e/_nuxt/img/52c585f.svg" alt="hansel wei's bitmoji" class="icon" height="200px" width="200px"></div> 
 
 
 **You Got Me at Hello World!**
 
-Hi, 
+
 
 I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication aspects of science and emerging tech? I'm also a huge extroverted geek that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
 
