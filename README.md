@@ -8,7 +8,7 @@ I'm just your local friendly neighborhood Hansel. You know the one that loves th
 
 `Okay... you got me... I don't really talk like that:`
 
-I'm actually only twenty-something, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)`
+I'm actually only twenty-something, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)
 
 
 Signing this commit,
