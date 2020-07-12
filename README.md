@@ -15,6 +15,8 @@ Signing this commit,
 
  ~ Hansel Wei <<hello@hanselwei.dev>>
  
+ P.S. Remember that "with great power comes great responsibility."
+ 
  <a href="https://dev.to/darkmastermindz">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Hansel Wei's DEV Profile" height="30" width="30">
 </a>
