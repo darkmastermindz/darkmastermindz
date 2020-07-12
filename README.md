@@ -14,4 +14,11 @@ I'm just your local friendly neighborhood Hansel. You know the one that loves th
   <img src="https://image.flaticon.com/icons/svg/124/124021.svg" alt="Hansel Wei's Twitter Profile" height="30" width="30" border-radius="15px 50px 30px 5px">
 </a>
 
-`Okay... you got me... I don't really talk like that. I'm actually only twenty-something, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)`
+`Okay... you got me... I don't really talk like that:`
+
+I'm actually only twenty-something, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)`
+
+
+Signing this commit,
+
+ ~ Hansel Wei <<hello@hanselwei.dev>>
