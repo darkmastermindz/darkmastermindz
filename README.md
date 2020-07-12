@@ -12,7 +12,7 @@ I'm just your local friendly neighborhood Hansel. You know the one that loves th
 
 `aka @darkmastermindz (follow me on twitter) because that's the alias I picked back when I was a youngster.`
 
-`Okay... you got me... I don't really talk like that:`
+`Okay... you got me... I don't really talk like that -`
 
 I'm actually only twenty-something, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)
 
