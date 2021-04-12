@@ -8,13 +8,13 @@ Hi,
 
 
 
-I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication aspects of science and emerging tech? I'm also a huge extroverted geek that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
+I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication / humanistic aspects of science and emerging tech? I'm also a huge extroverted geek that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
 
 `aka @darkmastermindz (follow me on twitter) because that's the alias I picked back when I was a youngster.`
 
 `Okay... you got me... I don't really talk like that -`
 
-I'm actually only twenty-something, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)
+I'm actually only twenty-something `(just like microservices, there's microgenerations and I'm deemed a zillennial)`, but I started and fell in love with programming when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, R, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)
 
 
 Signing this commit,
