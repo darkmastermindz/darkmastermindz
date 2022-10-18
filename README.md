@@ -1,10 +1,13 @@
 # 👋🏻👀
+
+
 Hi, 
 
 <div class="bitmojiAni"><img svg-inline="" src="https://d33wubrfki0l68.cloudfront.net/3ea6eb76f06258da302d0e6688da27208299515e/3c16e/_nuxt/img/52c585f.svg" alt="hansel wei's bitmoji" class="icon" height="200px" width="200px"></div> 
 
 
 **You Had Me at Hello World!**
+
 
 I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication / humanistic aspects of science and emerging tech? I'm also a huge extroverted human that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
 
@@ -21,3 +24,6 @@ Signing this commit,
  P.S. Remember that "with great power comes great responsibility."
 
 [hansel.run](https://hansel.run)
+
+![1659031848662-1](https://user-images.githubusercontent.com/6164335/196332880-40364e58-a113-4efd-8f88-62ccbf864a63.jpeg)
+
