@@ -15,6 +15,8 @@ I'm just your local friendly neighborhood Hansel. You know the one that loves th
 
 I'm actually only twenty-something `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. I started and fall in love with software engineering when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. :)
 
+My current areas of focus are in developer experience, emerging tech, and non-profit social good projects.
+
 Signing this commit,
  ~ Hansel Wei <<hello@hanselwei.dev>>
  
