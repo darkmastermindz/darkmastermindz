@@ -26,6 +26,6 @@ Signing this commit,
  
  P.S. Remember that "with great power comes great responsibility."
 
-[hansel.run](https://hansel.run)
+Socials: [hansel.run](https://hansel.run)
 
 
