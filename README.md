@@ -21,4 +21,4 @@ Signing this commit,
  
  > P.S. Always remember that "with great power comes great responsibility."
 
-Find me via your nearest social media @ [hansel.run](https://hansel.run)
+Find me @ [hansel.run](https://hansel.run) and connect with me via your nearest social media.
