@@ -9,9 +9,8 @@ Hi,
 
 I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication / humanistic aspects of science and emerging tech? I'm also a huge extroverted human that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
 
-`aka @darkmastermindz (follow me on twitter) because that's the alias I picked back when I was a youngster.`
-
-`Okay... you got me... I don't really talk like that -`
+> aka @darkmastermindz (follow me on twitter) because that's the alias I picked back when I was a youngster.
+> `Okay... you got me... I don't really talk like that -`
 
 I'm actually only twenty-something `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. I started and fall in love with software engineering when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. My current areas of focus are in developer experience, interdiciplinary emerging tech, mentoring, and non-profit social good projects. :)
 
@@ -20,6 +19,6 @@ Signing this commit,
  
  ![1659031848662-1](https://user-images.githubusercontent.com/6164335/196332880-40364e58-a113-4efd-8f88-62ccbf864a63.jpeg)
  
- P.S. Remember that "with great power comes great responsibility."
+ > P.S. Always remember that "with great power comes great responsibility."
 
 Find me @ [hansel.run](https://hansel.run)
