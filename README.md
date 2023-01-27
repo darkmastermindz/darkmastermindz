@@ -12,7 +12,7 @@ I'm just your local friendly neighborhood Hansel. You know the one that loves th
 > aka @darkmastermindz (follow me on twitter) because that's the alias I picked back when I was a youngster.
 > `Okay... you got me... I don't really talk like that -`
 
-I'm actually only twenty-something `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. I started and fall in love with software engineering when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, and non-profit social good projects. :)
+I'm actually only at my quarter life crisis `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. I started and fall in love with software engineering when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, and non-profit social good projects. Lately, I've been getting into Open Source and diving deep into governance and building communities of practice for developer experience engineering. :)
 
 Signing this commit,
  ~ Hansel Wei <<hello@hanselwei.dev>>
