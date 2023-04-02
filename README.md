@@ -1,6 +1,7 @@
 
-# 👋🏻👀
+# [👋🏻👀](https://hansel.run) 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+---
 
 <div class="bitmojiAni"><img svg-inline="" src="https://d33wubrfki0l68.cloudfront.net/3ea6eb76f06258da302d0e6688da27208299515e/3c16e/_nuxt/img/52c585f.svg" alt="hansel wei's bitmoji" class="icon" height="200px" width="200px"></div> 
 
@@ -22,4 +23,4 @@ Signing this commit,
  
  > P.S. Always remember that "with great power comes great responsibility."
 
-Find me @ [hansel.run](https://hansel.run), then connect with me via your nearest social media. DMs are always open.
+Find me @ [hansel.run](https://hansel.run), then connect with me via your nearest social media network. DMs are always open.
