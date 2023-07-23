@@ -14,7 +14,7 @@ Hi,
 
 I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication / humanistic aspects of science and emerging tech? I'm also a huge extroverted human that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
 
-> aka @darkmastermindz (follow me on twitter) because that's the alias I picked back when I was a youngster.
+> aka @hansel.rocks (follow me on threads) because it's the trendy place and all
 > `Okay... you got me... I don't really talk like that -`
 
 I'm actually only at my quarter life crisis `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. I started and fall in love with software engineering when I was 5 years old and have been a polyglot programmer ever since. Some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript. My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, non-profit social good projects, and building solutions around [OpenTelemetry](https://opentelemetry.io) for my day job. Lately, I've been getting into more involvement in open source, building communities surrounding my hobbies, and diving deep into governance and building communities of practice for developer experience engineering. :)
