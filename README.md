@@ -31,4 +31,5 @@ My current areas of focus are in developer experience, interdiciplinary emerging
  > ![1659031848662-2](https://raw.githubusercontent.com/darkmastermindz/darkmastermindz/main/assets/media/gifs/antigravity-spidey-boulder.gif)
 
 
-Find me @ [hansel.run](https://hansel.run), then connect with me via your nearest social media network. DMs are always open.
+Find me @ [hansel.run](https://hansel.run), then connect with me via your nearest social media network. *DMs are always open.*
+- *only if you are proven you are human - offer valid unless revoked - special conditions may apply*
