@@ -12,7 +12,7 @@ Hi,
 ![1659031848662-1](https://user-images.githubusercontent.com/6164335/196332880-40364e58-a113-4efd-8f88-62ccbf864a63.jpeg)
 
 
-I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and communication / humanistic aspects of science and emerging tech? I'm also a huge extroverted human that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time.
+I'm just your local friendly neighborhood Hansel. You know the one that loves the full stack development, datascience, automation, game dev, and the niche topic of humanistic approaches of science through emerging tech? Yes! I'm also a huge extroverted human that also loves hiking, rock climbing, gaming, and often volunteers to contribute to projects for social good one commit at a time. I absolutely love growing and fostering communities.
 
 > aka @hansel.rocks (follow me on threads) because it's the trendy place and all
 > `Okay... you got me... I don't really talk like that -`
