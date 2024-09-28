@@ -19,7 +19,7 @@ I'm just your local friendly neighborhood Hansel. You know the one that loves th
 
 I'm actually only at my quarter life crisis `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. I started and fall in love with software engineering when I was 5 years old and have been a polyglot programmer ever since. My biggest dreams are from making a positive social impact with my code and the tech around us. I enjoy learning about new languages and cultures. (but I know you're more interested about my code, so I'll tell you that some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript).
 
-My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, non-profit social good projects, and building solutions around [OpenTelemetry](https://opentelemetry.io). Lately, I've been getting into more involvement in open source, building communities surrounding my hobbies, and diving deep into governance and building communities of practice for developer experience engineering. :)
+My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, non-profit social good projects, and building solutions around [OpenTelemetry](https://opentelemetry.io). Lately, I've been getting into more involvement in open source, building communities surrounding my hobbies, LLMs, React, and diving deep into governance and building communities of practice for developer experience engineering. :)
 
  Signing this commit,
 
