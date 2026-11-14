@@ -29,4 +29,4 @@ My current areas of focus are in developer experience, interdiciplinary emerging
 
 ### Connect with me
 Find me @ [hansel.run](https://hansel.run), then connect with me via your nearest social media network. *DMs are always open.*
-- *only if you prove you are a verified human being - offer valid unless revoked - special conditions and restrictions may apply with or without notice*
+> *only if you prove you are a verified human being - offer valid unless revoked - special conditions and restrictions may apply with or without notice*
