@@ -12,11 +12,11 @@ I’m your local, friendly neighborhood Hansel—passionate about full-stack dev
 
 > `Okay... you got me... that was mostly AI, I don't really talk like that -`
 
-You might be surprised to find that I'm actually only at my quarter life crisis figuring out solutions for systems in the world just as much as I do in designing and programming `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. 
-
 I started and fall in love with software engineering, design thinking, and writing code when I was 5 years old and have been a polyglot engineer ever since. My biggest dreams are from making a positive social impact with contributions and the applying emerging tech to grow communities. I enjoy learning about new languages and cultures (but I know you're more interested about my code, so I'll tell you that some of my favorite programming languages include Python, Lua, C++, C#, SwiftLang, Kotlin, Java, Bash, and Typescript).
 
-My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, non-profit social good projects, and building solutions around [OpenTelemetry](https://opentelemetry.io). Lately, I've been getting into more involvement in open source, building communities surrounding my hobbies, LLMs, React, and diving deep into governance and building communities of practice for developer experience engineering. :)
+You might be surprised to find that I'm actually only right past my quarter life crisis figuring out solutions for systems in the world just as much as I do in designing and programming `(just like microservices that break apart what could be monolithic applications, there's microgenerations and I'm deemed a zillennial)`. 
+
+My current areas of focus are in developer experience, interdiciplinary emerging tech, 1:1 mentoring / coaching, non-profit social good projects, and building and implementing solutions around DevOps, GitHub Actions, and Kubernetes, as well as [OpenTelemetry](https://opentelemetry.io). Lately, I've been getting into more involvement in open source, building communities surrounding my hobbies, LLMs, React, and diving deep into governance and building communities of practice for developer experience engineering. :)
 
 
  Signing this commit,
