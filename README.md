@@ -20,6 +20,7 @@ My current areas of focus are in developer experience, interdiciplinary emerging
 
 
  Signing this commit,
+ 
  ~ Hansel Wei <<hello@hanselwei.dev>>
  
  > P.S. Always remember that "with great power comes great responsibility" and connect with people, implement processes, and create tools wisely.
